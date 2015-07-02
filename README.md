@@ -1,6 +1,6 @@
 ## Overview
 
-Base project for a SilverStripe Platform
+Base project for SilverStripe Platform:
 
  * [`framework`](http://github.com/silverstripe/silverstripe-framework): Module including the base framework
  * [`cms`](http://github.com/silverstripe/silverstripe-cms): Module including a Content Management System
