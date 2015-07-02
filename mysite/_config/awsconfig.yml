@@ -1,0 +1,9 @@
+---
+Name: awsconfig
+After:
+  - 'framework/*'
+  - 'cms/*'
+  - 'environmentcheck/*'
+---
+DevCheckController: 
+  permission: ''
