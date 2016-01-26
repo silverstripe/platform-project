@@ -1,0 +1,2 @@
+infrastructure: 2.0.0
+base: debian-jessie
