@@ -11,5 +11,7 @@ vendor/
 cms/
 framework/
 silverstripe-*
+reports/
+siteconfig/
 crontask/
 environmentcheck/
