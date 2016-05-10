@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "e291383caea5dc72282400d748693ed8",
-    "content-hash": "2039c17f23c56eebadb21058055cd091",
+    "hash": "16513ee44af49ecb000b9a7e0ba76dae",
+    "content-hash": "fc5aa88d49f03be797308822da9849de",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -759,7 +759,7 @@
         },
         {
             "name": "silverstripe/environmentcheck",
-            "version": "dev-master",
+            "version": "1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/silverstripe-labs/silverstripe-environmentcheck.git",
@@ -1380,12 +1380,13 @@
         "silverstripe/cms": 0,
         "silverstripe/framework": 0,
         "silverstripe/dynamodb": 0,
+        "silverstripe/environmentcheck": 0,
         "phpunit/phpunit": 0
     },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=5.3.2"
+        "php": ">=5.5"
     },
     "platform-dev": []
 }
