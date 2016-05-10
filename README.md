@@ -11,7 +11,7 @@ Base project for SilverStripe Platform:
 
 ## Installation ##
 
-	composer create-project silverstripe/platform-project directory 1.0.0
+	composer create-project silverstripe/platform-project directory 2.0.0
 
 ## Bugtracker ##
 
