@@ -3,8 +3,8 @@
 	"description": "The SilverStripe Platform base project / installer.",
 	"require": {
 		"php": ">=5.5",
-		"silverstripe/cms": "^3.3@stable",
-		"silverstripe/framework": "^3.3@stable",
+		"silverstripe/cms": "^3.5@stable",
+		"silverstripe/framework": "^3.5@stable",
 		"silverstripe-themes/simple": "*",
 		"silverstripe/dynamodb": "^2.0@stable",
 		"silverstripe/environmentcheck": "^1.0@stable"
