@@ -5,13 +5,11 @@ Base project for SilverStripe Platform:
  * [`framework`](http://github.com/silverstripe/silverstripe-framework): Module including the base framework
  * [`cms`](http://github.com/silverstripe/silverstripe-cms): Module including a Content Management System
  * [`dynamodb`](https://github.com/silverstripe/silverstripe-dynamodb): DynamoDB session handling
- * [`crontask`](https://github.com/silverstripe-labs/silverstripe-crontask): Garbage Collection handling
- * [`environmentcheck`](https://github.com/silverstripe-labs/silverstripe-environmentcheck): Environment healthchecks
  * `themes/simple` (optional)
 
 ## Installation ##
 
-	composer create-project silverstripe/platform-project directory 2.0.0
+	composer create-project silverstripe/platform-project /path/to/local/site
 
 ## Bugtracker ##
 

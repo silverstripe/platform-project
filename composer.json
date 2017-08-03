@@ -2,15 +2,15 @@
 	"name": "silverstripe/platform-project",
 	"description": "The SilverStripe Platform base project / installer.",
 	"require": {
-		"php": ">=5.5",
-		"silverstripe/cms": "^3.5@stable",
-		"silverstripe/framework": "^3.5@stable",
-		"silverstripe-themes/simple": "*",
-		"silverstripe/dynamodb": "^2.0@stable",
-		"silverstripe/environmentcheck": "^1.0@stable"
+		"php": ">=5.6",
+		"silverstripe/cms": "^3.6",
+		"silverstripe/framework": "^3.6",
+		"silverstripe/dynamodb": "^3.0",
+		"silverstripe/crontask": "^1.1",
+		"silverstripe-themes/simple": "*"
 	},
 	"require-dev": {
-		"phpunit/PHPUnit": "~3.7@stable"
+		"phpunit/PHPUnit": "~4.8"
 	},
 	"config": {
 		"process-timeout": 600
