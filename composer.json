@@ -3,14 +3,17 @@
 	"description": "The SilverStripe Platform base project / installer.",
 	"require": {
 		"php": ">=5.6",
-		"silverstripe/cms": "^3.6",
-		"silverstripe/framework": "^3.6",
-		"silverstripe/dynamodb": "^3.0",
-		"silverstripe/crontask": "^1.1",
-		"silverstripe-themes/simple": "*"
+		"silverstripe/cms": "^4",
+		"silverstripe/framework": "^4",
+		"silverstripe-themes/simple": "~3.2.0",
+		"silverstripe/dynamodb": "^4",
+		"silverstripe/crontask": "^2",
+		"silverstripe/environmentcheck": "^2",
+		"silverstripe/asset-admin": "^1"
+
 	},
 	"require-dev": {
-		"phpunit/PHPUnit": "~4.8"
+		"phpunit/phpunit": "^5.7"
 	},
 	"config": {
 		"process-timeout": 600

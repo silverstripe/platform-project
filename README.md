@@ -9,7 +9,17 @@ Base project for SilverStripe Platform:
 
 ## Installation ##
 
-	composer create-project silverstripe/platform-project /path/to/local/site
+```bash
+composer create-project silverstripe/platform-project /path/to/local/site
+```
+
+Once installed, copy `.env.example` to `.env` and update with your relevant values - this should _not_ be committed up, and as such is in the `.gitignore` file.
+
+To use the SilverStripe 3 version of the project, use:
+
+```bash
+	composer create-project silverstripe/platform-project /path/to/local/site 3.0.1
+```
 
 ## Bugtracker ##
 

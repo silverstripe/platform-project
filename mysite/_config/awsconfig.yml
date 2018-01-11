@@ -1,9 +1,5 @@
 ---
 Name: awsconfig
-After:
-  - 'framework/*'
-  - 'cms/*'
-  - 'environmentcheck/*'
 ---
-DevCheckController: 
+SilverStripe\EnvironmentCheck\Controllers\DevCheckController:
   permission: ''
