@@ -1,5 +1,7 @@
 ## Overview
 
+** This project is no longer actively used or supported. Please use the https://github.com/silverstripeltd/demo-project.git instead**
+
 Base project for SilverStripe Platform:
 
  * [`framework`](http://github.com/silverstripe/silverstripe-framework): Module including the base framework
